@@ -3,7 +3,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 If you get stuck, here is more help:
 •	[Cypress Support](https://www.cypress.io/support/)
 1. Install Cypress
-Link:[Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress)
+Link: [Follow these instructions to install Cypress.](https://docs.cypress.io/guides/getting-started/installing-cypress)
 2. Download the codes.
 •	Open the codes with Visual Studio.
 •	Save them.
